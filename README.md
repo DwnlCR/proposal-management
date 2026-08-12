@@ -285,6 +285,3 @@ docker compose up -d
 Erro de autenticação:
 
 Verifique se o banco criou a tabela user com os dados de teste. SecurityConfig.initDatabase() executa na startup e cria os usuários.
-
-GitHub: DwnlCR
-LinkedIn: daniel-coelho
